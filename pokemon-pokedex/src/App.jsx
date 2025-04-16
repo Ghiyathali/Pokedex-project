@@ -7,7 +7,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    
       <div className="app">
         <Navbar />
         <main className="container">
@@ -18,7 +18,7 @@ function App() {
           </Routes>
         </main>
       </div>
-    </Router>
+    
   );
 }
 
