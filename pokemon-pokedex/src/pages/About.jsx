@@ -3,8 +3,7 @@ function About() {
       <div className="about-page">
         <h1>About the Pokédex App</h1>
         <p>
-          This Pokédex application was created as a React project. It uses the PokéAPI 
-          to fetch and display information about different Pokémon.
+          This WEB2 assignment is a simple Pokédex app built using React and Vite.
         </p>
         <p>
           With this app, you can browse through the catalog of Pokémon and view detailed 
